@@ -1,0 +1,25 @@
+.header {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    column-gap: 300px;
+  }
+
+  &__logo {
+    width: 124px;
+    height: 40px;
+    flex-shrink: 0;
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+  }
+}

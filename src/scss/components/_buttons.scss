@@ -1,0 +1,59 @@
+.btn1 {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 100%;
+  text-align: center;
+  vertical-align: middle;
+  color: $white;
+  background-color: #2f2105;
+  height: 45px;
+  padding-left: 32px;
+  padding-right: 32px;
+  border-radius: 33px;
+  flex-shrink: 0;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.btn2 {
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 100%;
+  text-align: center;
+  vertical-align: middle;
+  height: 38px;
+  padding-left: 24px;
+  padding-right: 24px;
+  flex-shrink: 0;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: $orange2;
+}
+
+.btn3 {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 100%;
+  text-align: center;
+  vertical-align: middle;
+  color: $orange;
+  border: 2px solid $orange;
+  height: 30px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 33px;
+  flex-shrink: 0;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
